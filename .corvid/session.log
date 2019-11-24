@@ -1,0 +1,32 @@
+{"message":"Server starting at c:\\Users\\User\\Desktop\\clients\\novadrone","level":"info","timestamp":"2019-11-24T23:47:20.828Z"}
+{"message":"Watching for file changes at [src]","level":"verbose","timestamp":"2019-11-24T23:47:20.850Z"}
+{"message":"Server listening at editor port [5000], admin port [3000]","level":"info","timestamp":"2019-11-24T23:47:21.148Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2019-11-24T23:47:21.210Z"}
+{"message":"Socket event GET_STATUS received","level":"info","timestamp":"2019-11-24T23:47:21.268Z"}
+{"message":"Socket event GET_STATUS handled succesfully","level":"info","timestamp":"2019-11-24T23:47:21.269Z"}
+{"message":"pulling [https://www.wix.com/editor/2fd870a2-be0c-413e-8062-e6f43cf15529?petri_ovr=specs.ExcludeSiteFromSsr=true&corvidSessionId=94ebeb60-67b5-46fb-8fd2-a3e616f9d4c6&localServerPort=5000&x-wix-bi-context=eyJidWlsZGVyRW52IjoibG9jYWwiLCJpc0hlYWRsZXNzIjp0cnVlfQ==]","level":"info","timestamp":"2019-11-24T23:47:21.274Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"verbose","timestamp":"2019-11-24T23:48:33.129Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2019-11-24T23:48:33.130Z"}
+{"message":"Socket event HANDSHAKE received","level":"info","timestamp":"2019-11-24T23:48:33.147Z"}
+{"message":"Socket event HANDSHAKE handled succesfully","level":"info","timestamp":"2019-11-24T23:48:33.148Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2019-11-24T23:48:33.154Z"}
+{"message":"Socket event IS_CLONE_MODE handled succesfully","level":"info","timestamp":"2019-11-24T23:48:33.155Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2019-11-24T23:48:47.610Z"}
+{"message":"Socket event IS_CLONE_MODE handled succesfully","level":"info","timestamp":"2019-11-24T23:48:47.612Z"}
+{"message":"Socket event UPDATE_DOCUMENT received","level":"info","timestamp":"2019-11-24T23:48:54.647Z"}
+{"message":" started","level":"info","timestamp":"2019-11-24T23:48:54.648Z"}
+{"message":"Backing up site","level":"info","timestamp":"2019-11-24T23:48:54.649Z"}
+{"message":"Socket event UPDATE_CODE received","level":"info","timestamp":"2019-11-24T23:48:54.653Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE received","level":"info","timestamp":"2019-11-24T23:48:54.658Z"}
+{"message":"Backing up site complete","level":"info","timestamp":"2019-11-24T23:48:54.660Z"}
+{"message":"Deleting backup","level":"info","timestamp":"2019-11-24T23:48:55.158Z"}
+{"message":"Deleting backup complete","level":"info","timestamp":"2019-11-24T23:48:55.256Z"}
+{"message":" finished","level":"info","timestamp":"2019-11-24T23:48:55.257Z"}
+{"message":"updateCode started","level":"info","timestamp":"2019-11-24T23:48:55.258Z"}
+{"message":"Socket event UPDATE_DOCUMENT handled succesfully","level":"info","timestamp":"2019-11-24T23:48:55.262Z"}
+{"message":"updateCode finished","level":"info","timestamp":"2019-11-24T23:48:55.603Z"}
+{"message":"updateCodeIntelligence started","level":"info","timestamp":"2019-11-24T23:48:55.603Z"}
+{"message":"Socket event UPDATE_CODE handled succesfully","level":"info","timestamp":"2019-11-24T23:48:55.605Z"}
+{"message":"updateCodeIntelligence finished","level":"info","timestamp":"2019-11-24T23:48:56.191Z"}
+{"message":"Clone complete","level":"verbose","timestamp":"2019-11-24T23:48:56.194Z"}
+{"message":"Socket event UPDATE_CODE_INTELLIGENCE handled succesfully","level":"info","timestamp":"2019-11-24T23:48:56.194Z"}

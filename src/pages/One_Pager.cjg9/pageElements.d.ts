@@ -1,0 +1,37 @@
+type PageElementsMap = {
+  "#page1": $w.Page;
+  "#impressiveTextSliderProd1": $w.IFrame;
+  "#box1": $w.Box;
+  "#columnStrip1": $w.ColumnStrip;
+  "#text9": $w.Text;
+  "#column4": $w.Column;
+  "#column3": $w.Column;
+  "#column2": $w.Column;
+  "#column1": $w.Column;
+  "#vectorImage4": $w.VectorImage;
+  "#text8": $w.Text;
+  "#text7": $w.Text;
+  "#button4": $w.Button;
+  "#vectorImage3": $w.VectorImage;
+  "#text6": $w.Text;
+  "#text5": $w.Text;
+  "#button3": $w.Button;
+  "#vectorImage2": $w.VectorImage;
+  "#text4": $w.Text;
+  "#text3": $w.Text;
+  "#button2": $w.Button;
+  "#vectorImage1": $w.VectorImage;
+  "#text2": $w.Text;
+  "#text1": $w.Text;
+  "#button1": $w.Button;
+  "#header1": $w.Header;
+  "#footer1": $w.Footer;
+  "#container1": $w.HiddenCollapsedElement;
+  "#image5": $w.Image;
+  "#socialBar1": $w.HiddenCollapsedElement;
+  "#horizontalMenu1": $w.HiddenCollapsedElement;
+  "#accountNavBar1": $w.AccountNavBar;
+  "#text12": $w.Text;
+  "#verticalMenu1": $w.VerticalMenu;
+  "#profile1": $w.IFrame;
+}

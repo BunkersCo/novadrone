@@ -1,0 +1,36 @@
+type PageElementsMap = {
+  "#page1": $w.Page;
+  "#fullWidthSlides1": $w.Slideshow;
+  "#line4": $w.HiddenCollapsedElement;
+  "#text5": $w.Text;
+  "#video3": $w.Video;
+  "#line3": $w.HiddenCollapsedElement;
+  "#text4": $w.Text;
+  "#video2": $w.Video;
+  "#line2": $w.HiddenCollapsedElement;
+  "#text3": $w.Text;
+  "#video1": $w.Video;
+  "#line1": $w.HiddenCollapsedElement;
+  "#text2": $w.Text;
+  "#text1": $w.Text;
+  "#impressiveSlider1": $w.IFrame;
+  "#slide3": $w.Slide;
+  "#slide2": $w.Slide;
+  "#slide1": $w.Slide;
+  "#text11": $w.Text;
+  "#text10": $w.Text;
+  "#text9": $w.Text;
+  "#text8": $w.Text;
+  "#text7": $w.Text;
+  "#text6": $w.Text;
+  "#header1": $w.Header;
+  "#footer1": $w.Footer;
+  "#container1": $w.HiddenCollapsedElement;
+  "#image5": $w.Image;
+  "#socialBar1": $w.HiddenCollapsedElement;
+  "#horizontalMenu1": $w.HiddenCollapsedElement;
+  "#accountNavBar1": $w.AccountNavBar;
+  "#text12": $w.Text;
+  "#verticalMenu1": $w.VerticalMenu;
+  "#profile1": $w.IFrame;
+}
